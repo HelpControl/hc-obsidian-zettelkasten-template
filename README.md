@@ -1,0 +1,2 @@
+
+# hc-obsidian-zettelkasten-template
