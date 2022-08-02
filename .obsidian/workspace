@@ -47,6 +47,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "5dff78f03a5b17c8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -78,6 +86,17 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7f5a2d9d72c2f857",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
           }
         ]
       }
@@ -88,6 +107,9 @@
   },
   "active": "0894f3c976004d62",
   "lastOpenFiles": [
-    "README.md"
+    "README.md",
+    "Daily/2022-08-02.md",
+    "Templates/DailyNote.md",
+    "Base/Untitled.md"
   ]
 }
